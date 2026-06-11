@@ -1,5 +1,8 @@
 {
-  "name": "playwright-api-minimal",
+  "name": "playwright-typescript-dummy-api-tests",
   "version": "1.0.0",
-  "description": "Ultra-minimal API-only Playwright testing project using TypeScript."
+  "description": "Ultra-minimal API-only Playwright testing project using TypeScript.",
+  "scripts": {
+    "test": "playwright test"
+  }
 }  
